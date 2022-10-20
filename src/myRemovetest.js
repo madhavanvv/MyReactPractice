@@ -1,0 +1,2 @@
+"hello";
+//src/myRemovetest.js
